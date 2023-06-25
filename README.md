@@ -4,6 +4,8 @@
 
 A blog Project with title _crypto (PHP)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=Gradient)
+
 
 ## 🛠 Skills
 Php, Laravel, YII, Symfony...
