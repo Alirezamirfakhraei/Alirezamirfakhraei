@@ -13,8 +13,3 @@ Javascript, ReactJs
 
 ## 🚀 About Me
 I'm a full stack developer...
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Alirezamirfakhraei&repo=_crypto)](https://github.com/anuraghazra/github-readme-stats)
