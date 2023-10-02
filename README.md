@@ -8,7 +8,9 @@
 ## 🛠 Skills
 <table>
   <tr>
-   
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/php-99-1175127.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-256/laravel-226015.png" width="100"></td>
+    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
    </tr>
   </table>
 
